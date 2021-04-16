@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\bin\Debug\JunioDI1.exe.config
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\bin\Debug\JunioDI1.exe
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\bin\Debug\JunioDI1.pdb
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\obj\Debug\JunioDI1.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\obj\Debug\JunioDI1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\obj\Debug\JunioDI1.exe
+C:\Users\Kevin\source\repos\JunioDI1\JunioDI1\obj\Debug\JunioDI1.pdb
